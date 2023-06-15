@@ -18,9 +18,13 @@ File Copier is a Python program that allows you to select multiple files and cop
 ## Usage
 
 1- Run the program:
+
 2- Click on the "Select Files" button to choose the files you want to copy.
+
 3- Click on the "Select Output File" button to specify the output file where the contents will be copied.
+
 4- Click on the "Copy Files" button to start the copying process.
+
 5- The program will display a success message when the files are copied successfully.
 
 ## Contributing
